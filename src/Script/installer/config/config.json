@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "author": "Installation",
+  "mainApp": "Main.exe",
+
+  "introduce": "iiiiiiiiii",
+
+  "zipFile": "main.7z",
+  "z7zipfile": "",
+
+  "needSize": "3GB",
+
+  "allInfo": ".\\cn\\start.html",
+  "allInfoEnglish": ".\\en\\start.html",
+
+  "appName": ["新版安装包","New installer"],
+
+  "QQ": "599575461",
+  "website": "599575461.github.io"
+}

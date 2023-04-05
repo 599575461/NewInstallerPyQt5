@@ -1,0 +1,32 @@
+*{
+    font: 81 9pt "黑体";
+    color:#fff;
+}
+QTextBrowser{
+    font-size: 10pt;
+}
+QLineEdit{
+    border:none;
+    border-radius:7px;
+    background-color:#4b4b4e;
+    color:#fff;
+}
+QLineEdit:hover{
+    background-color:#4b4b4e;
+    border-radius:7px;
+    border:none;
+}
+QGroupBox{
+    border-width:1px;
+    border-style:solid;
+    border-radius: 10px;
+    border-color:gray;
+    margin-top:0.5ex;
+}
+QGroupBox::title{
+    subcontrol-origin:margin;
+    subcontrol-position:top left;
+    left:20px;
+    margin-left:0px;
+    padding:0 1px;
+}
